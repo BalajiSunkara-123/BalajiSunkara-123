@@ -9,6 +9,8 @@
   </p>
 </div>
 
+---
+
 ### 🧑‍💻 About Me
 🎓 **B.Tech CSE student** at **National Institute of Technology, Andhra Pradesh** passionate about **Full-Stack Development**, **AI/ML**, and **Software Engineering**.  
 🚀 I love building impactful solutions and continuously improving my technical and problem-solving skills.  
