@@ -1,13 +1,13 @@
-<h1 align="center">👋 Hi, I'm Sunkara Hari Venkata Balaji</h1>
-<h3 align="center">💻 Full-Stack Developer | B.Tech CSE @ NIT Andhra Pradesh</h3>
-
-<p align="center">
-  <a href="mailto:sunkarabalaji288@gmail.com"><img src="https://img.shields.io/badge/Email-sunkarabalaji288%40gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/hari-venkata-balaji-sunkara-21a773294/"><img src="https://img.shields.io/badge/LinkedIn-Hari%20Venkata%20Balaji-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://harivenkatabalajisunkara.lovable.app"><img src="https://img.shields.io/badge/Portfolio-View%20Now-green?style=flat-square&logo=google-chrome"></a>
-  <img src="https://img.shields.io/badge/Location-Kakinada%2C%20India-orange?style=flat-square&logo=google-maps">
-</p>
-
+<div align="center">
+  <img src="profile.jpg" alt="Sunkara Hari Venkata Balaji" width="200" style="border-radius: 50%; margin-right: 20px;" align="left">
+  <h1>👋 Hi, I'm Sunkara Hari Venkata Balaji</h1>
+  <h3>💻 Full-Stack Developer | B.Tech CSE @ NIT Andhra Pradesh</h3>
+  <p>
+    <a href="mailto:sunkarabalaji288@gmail.com"><img src="https://img.shields.io/badge/Email-sunkarabalaji288%40gmail.com-red?style=flat-square&logo=gmail"></a>
+    <a href="https://www.linkedin.com/in/hari-venkata-balaji-sunkara-21a773294/"><img src="https://img.shields.io/badge/LinkedIn-Hari%20Venkata%20Balaji-blue?style=flat-square&logo=linkedin"></a>
+    <a href="https://harivenkatabalajisunkara.lovable.app"><img src="https://img.shields.io/badge/Portfolio-View%20Now-green?style=flat-square&logo=google-chrome"></a>
+  </p>
+</div>
 ---
 
 ### 🧑‍💻 About Me
@@ -16,7 +16,7 @@
 
 - 💡 **CGPA:** 9.45 (Highest: 9.55)  
 - 🧠 Interested in **Web Development | AI/ML | Cybersecurity**  
-- 📘 Published Research: *Hyperspectral Image Classification using PyFormer (ICCNT 2025, IIT Indore)*  
+- 📘 Published Research: *Exploring Deep Learning Models for Hyperspectral Image Classification(ICCNT 2025, IIT Indore)*  
 - 💬 Always eager to learn and collaborate on innovative projects  
 
 ---
@@ -88,8 +88,7 @@
 
 ### 🏆 Achievements
 - 🥉 **3rd Place**, Code Week Challenge (CSEA, NITAP)  
-- ⚡ **AlgoUniversity Round 1 Qualified**  
-- 🎓 **PM-YASASVI Scholarship** – Top Class College Education for OBC, EBC & DNT Students  
+- ⚡ **AlgoUniversity Round 1 Qualified**   
 - 📄 **Research Paper Accepted (ICCNT 2025)** – IIT Indore  
 
 ---
