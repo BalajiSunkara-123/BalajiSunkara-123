@@ -1,6 +1,9 @@
 <div align="center">
   <img src="https://i.postimg.cc/wB6zXB5K/Smiling-Student-at-NIT-Andhra-Pradesh.png" alt="Sunkara Hari Venkata Balaji" width="200" style="border-radius: 50%; margin-right: 20px;" align="left">
   <h1>👋 Hi, I'm Sunkara Hari Venkata Balaji</h1>
+
+  ---
+  
   <h3>💻 Full-Stack Developer | B.Tech CSE @ NIT Andhra Pradesh</h3>
   <p>
     <a href="mailto:sunkarabalaji288@gmail.com"><img src="https://img.shields.io/badge/Email-sunkarabalaji288%40gmail.com-red?style=flat-square&logo=gmail"></a>
