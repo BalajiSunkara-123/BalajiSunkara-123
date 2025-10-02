@@ -8,7 +8,7 @@
     <a href="https://harivenkatabalajisunkara.lovable.app"><img src="https://img.shields.io/badge/Portfolio-View%20Now-green?style=flat-square&logo=google-chrome"></a>
   </p>
 </div>
-
+---
 ### 🧑‍💻 About Me
 🎓 **B.Tech CSE student** at **National Institute of Technology, Andhra Pradesh** passionate about **Full-Stack Development**, **AI/ML**, and **Software Engineering**.  
 🚀 I love building impactful solutions and continuously improving my technical and problem-solving skills.  
